@@ -363,7 +363,7 @@ def display_product_image(image_data):
 
 # Admin Dashboard
 def admin_dashboard():
-    st.title("Admin Dashboard")
+    st.title("Tanzania Market place")
     st.write("Welcome, Admin!")
     
     # Fetch all products with the option to filter by category
@@ -425,7 +425,7 @@ def admin_dashboard():
 
 
 def user_dashboard():
-    st.title("User Dashboard")
+    st.title("Tanzania Market place")
     st.write("Welcome to your dashboard!")
     
     # Sidebar Menu
